@@ -1,7 +1,9 @@
-Nama  : Alvin Xavier Rakha Wardhana
+Nama           : Alvin Xavier Rakha Wardhana
 
-NPM   : 2106750300
+NPM            : 2106750300
 
-Kelas : E
+Kelas          : E
 
-Hobi  : Tidur
+Hobi           : Tidur
+
+Makanan Favori : Pisang Goreng
